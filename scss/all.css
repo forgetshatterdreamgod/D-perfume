@@ -615,7 +615,7 @@ body .wrap .footer .contanier .footer_content {
   padding: 20px 0 22px 0;
 }
 
-body .wrap .footer .contanier .footer_content div {
+body .wrap .footer .contanier .footer_content .trademark {
   width: 346px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -628,13 +628,13 @@ body .wrap .footer .contanier .footer_content div {
           align-items: center;
 }
 
-body .wrap .footer .contanier .footer_content div .footer_logo {
+body .wrap .footer .contanier .footer_content .trademark .footer_logo {
   background: no-repeat url("../img/d’Perfumew.png") center/cover;
   width: 128px;
   height: 38px;
 }
 
-body .wrap .footer .contanier .footer_content div small {
+body .wrap .footer .contanier .footer_content .trademark small {
   color: #FFFFFF;
   font-size: 14px;
   line-height: 21px;
